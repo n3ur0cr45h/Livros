@@ -11,9 +11,9 @@
 <div align="Center"> 
 <br>
 
-|  ID  | Título                    | Autor                   | URL  | 
-| ---- | ------------------------- | ------------------------|---------------------------------------------------------| 
-|    |     |            |
+|  ID  | Título                    | Autor                   | URL                                                                                 | 
+| ---- | ------------------------- | ------------------------|-------------------------------------------------------------------------------------| 
+|  1A  | Computer Networks (6th)   | Andrew Tanenbaum        |https://www.amazon.com.br/Computer-Networks-Global-Andrew-Tanenbaum/dp/1292374063    |
 
 </div> 
 </details>
