@@ -36,7 +36,8 @@
 | F7   | CompTIA A+ Certification All-in-One Exam Guide (Exams 220-1101 & 220-1102) | Mike Meyers, Travis A. Everett, Andrew Hutz   | <a href="https://www.amazon.com.br/CompTIA-Certification-Eleventh-220-1101-220-1102-ebook/dp/B09ZDK6GLW/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Amazon</a> | 
 | F8   | CompTIA Network+ Certification All-in-One Exam Guide (Exam N10-008) | Mike Meyers, Scott Jernigan   | <a href="https://www.amazon.com.br/CompTIA-Network-Certification-N10-008-English-ebook/dp/B09PYFT7X7/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-4">Amazon</a> |
 | F9   | CompTIA Server+ Certification All-in-One Exam Guide (Exam SK0-005)  | Daniel Lachance   | <a href="https://www.amazon.com.br/CompTIA-Server-Certification-SK0-005-English-ebook/dp/B08XQZXTZF/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-3">Amazon</a> |
-| F10   | Learn Computer Forensics: Your one-stop guide to searching, analyzing, acquiring, and securing digital evidence  | William Oettinger   | <a href="https://www.amazon.com.br/CompTIA-Server-Certification-SK0-005-English-ebook/dp/B08XQZXTZF/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-3">Amazon</a> |
+| F10   | Learn Computer Forensics: Your one-stop guide to searching, analyzing, acquiring, and securing digital evidence  | William Oettinger   | <a href="https://www.amazon.com.br/Learn-Computer-Forensics-searching-analyzing-ebook/dp/B09X74V884/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Amazon</a> |
+
 
 
 
