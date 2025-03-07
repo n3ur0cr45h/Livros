@@ -21,7 +21,7 @@
 ----
 
 <details>
-  <summary><b> Concluídos </b></summary>
+  <summary><b> Finalizados </b></summary>
 <div align="Center"> 
 <br>
 
