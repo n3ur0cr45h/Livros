@@ -37,9 +37,12 @@
 | F8   | CompTIA Network+ Certification All-in-One Exam Guide (Exam N10-008) | Mike Meyers, Scott Jernigan   | <a href="https://www.amazon.com.br/CompTIA-Network-Certification-N10-008-English-ebook/dp/B09PYFT7X7/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-4">Amazon</a> |
 | F9   | CompTIA Server+ Certification All-in-One Exam Guide (Exam SK0-005)  | Daniel Lachance   | <a href="https://www.amazon.com.br/CompTIA-Server-Certification-SK0-005-English-ebook/dp/B08XQZXTZF/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-3">Amazon</a> |
 | F10   | Learn Computer Forensics: Your one-stop guide to searching, analyzing, acquiring, and securing digital evidence  | William Oettinger   | <a href="https://www.amazon.com.br/Learn-Computer-Forensics-searching-analyzing-ebook/dp/B09X74V884/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Amazon</a> |
-
-
-
+| F11   | How AI Works: From Sorcery to Science   | Ronald T. Kneusel   | <a href="https://www.amazon.com.br/How-AI-Works-Sorcery-Science-ebook/dp/B0CDB7WHJD/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1">Amazon</a> |
+| F12   | Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century!   | Occupytheweb  | <a href="https://www.amazon.com.br/Getting-Started-Becoming-Master-Hacker-ebook/dp/B081Y5262X/ref=sr_1_1?s=digital-text&sr=1-1">Amazon</a> |
+| F13   | Devops for the Desperate: A Hands-On Survival Guide   | Bradley Smith | <a href="https://www.amazon.com.br/Devops-Desperate-Hands-Survival-Guide/dp/1718502486/ref=sr_1_1?sr=8-1">Amazon</a> |
+| F14   | The Art of Clean Code: Best Practices to Eliminate Complexity and Simplify Your Life   | Christian Mayer | <a href="https://www.amazon.com.br/Art-Clean-Code-Practices-Complexity-ebook/dp/B09BKL3V69/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1">Amazon</a> |
 
 </div> 
 </details>
+
+----
