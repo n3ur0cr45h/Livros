@@ -13,7 +13,7 @@
 
 |  ID  | Título                    | Autor                   | URL                                                                                 | 
 | ---- | ------------------------- | ------------------------|-------------------------------------------------------------------------------------| 
-|  A1  | Computer Networks (6th)   | Andrew Tanenbaum        |<a href="https://www.amazon.com.br/Tribe-Hackers-Cybersecurity-Advice-World-ebook/dp/B0BBH9K1B4/ref=sr_1_1__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=books&sr=1-1">Amazon</a>    |
+|  A1  | Modern Operating Systems (5th)   | Andrew Tanenbaum        |<a href="https://www.amazon.com/Modern-Operating-Systems-Global-Edition-dp-1292459662/dp/1292459662/ref=dp_ob_image_bk">Amazon</a>    |
 
 </div> 
 </details>
